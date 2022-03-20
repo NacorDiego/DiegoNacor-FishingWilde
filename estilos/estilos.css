@@ -1,9 +1,9 @@
 .logo {
-  width: 150px;
+  width: 160px;
 }
 
 header {
-  background: #f1f1f1;
+  background: #383838;
   height: 9vh;
 }
 header .navegacion {
@@ -12,6 +12,8 @@ header .navegacion {
   gap: 20px;
 }
 header .navegacion__link {
+  color: #ffffff;
+  font-size: 1.2rem;
   text-decoration: none;
 }
 

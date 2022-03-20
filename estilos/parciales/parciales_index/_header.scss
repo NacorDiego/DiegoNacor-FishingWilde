@@ -1,9 +1,11 @@
+@import '../variables';
+
 .logo {
-    width: 150px;
+    width: 160px;
 }
 
 header {
-    background: #f1f1f1;
+    background: $gris_oscuro;
     height: 9vh;
 
     .navegacion {
@@ -12,6 +14,8 @@ header {
         gap: 20px;
     
         &__link {
+            color: $blanco;
+            font-size: 1.2rem;
             text-decoration: none;
         }
     }
