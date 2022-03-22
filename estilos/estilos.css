@@ -4,17 +4,29 @@
 
 header {
   background: #383838;
-  height: 9vh;
+  height: 12vh;
 }
+
 header .navegacion {
   height: 100%;
   margin-left: 30px;
   gap: 20px;
 }
+
 header .navegacion__link {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 1.3rem;
+  font-weight: 300;
   color: #ffffff;
-  font-size: 1.2rem;
   text-decoration: none;
 }
 
+header .navegacion__link:hover {
+  color: #f7941e;
+}
+
+.portada {
+  height: 100vh;
+  background-color: #383838;
+}
 /*# sourceMappingURL=estilos.css.map */

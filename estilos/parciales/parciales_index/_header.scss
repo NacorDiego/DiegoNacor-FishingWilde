@@ -6,7 +6,7 @@
 
 header {
     background: $gris_oscuro;
-    height: 9vh;
+    height: 12vh;
 
     .navegacion {
         height: 100%;
@@ -14,9 +14,15 @@ header {
         gap: 20px;
     
         &__link {
+            font-family:$condensada;
+            font-size: $nav_size;
+            font-weight: $nav_weight;
             color: $blanco;
-            font-size: 1.2rem;
             text-decoration: none;
+        }
+
+        &__link:hover {
+            color: $naranja;
         }
     }
 }

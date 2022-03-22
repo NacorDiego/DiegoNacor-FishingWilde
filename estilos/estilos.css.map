@@ -1,1 +1,14 @@
-{"version":3,"sourceRoot":"","sources":["parciales/parciales_index/_header.scss","parciales/_variables.scss"],"names":[],"mappings":"AAEA;EACI;;;AAGJ;EACI,YCHU;EDIV;;AAEA;EACI;EACA;EACA;;AAEA;EACI,OCVH;EDWG;EACA","file":"estilos.css"}
+{
+    "version": 3,
+    "mappings": "AEEA,AAAA,KAAK,CAAC;EACF,KAAK,EAAE,KAAK;CACf;;AAED,AAAA,MAAM,CAAC;EACH,UAAU,ECHA,OAAO;EDIjB,MAAM,EAAE,IAAI;CAmBf;;AArBD,AAII,MAJE,CAIF,WAAW,CAAC;EACR,MAAM,EAAE,IAAI;EACZ,WAAW,EAAE,IAAI;EACjB,GAAG,EAAE,IAAI;CAaZ;;AApBL,AASQ,MATF,CASG,iBAAM,CAAC;EACJ,WAAW,ECLX,kBAAkB,EAAE,UAAU;EDM9B,SAAS,ECDV,MAAM;EDEL,WAAW,ECEV,GAAG;EDDJ,KAAK,ECbR,OAAO;EDcJ,eAAe,EAAE,IAAI;CACxB;;AAfT,AAiBQ,MAjBF,CAiBG,iBAAM,AAAA,MAAM,CAAC;EACV,KAAK,ECjBP,OAAO;CDkBR;;AEvBT,AAAA,QAAQ,CAAC;EACL,MAAM,EDsBO,KAAK;ECrBlB,gBAAgB,EDAN,OAAO;CCCpB",
+    "sources": [
+        "estilos.scss",
+        "parciales/_index.scss",
+        "parciales/parciales_index/_header.scss",
+        "parciales/_variables.scss",
+        "parciales/parciales_index/_portada.scss",
+        "parciales/_variables.scss"
+    ],
+    "names": [],
+    "file": "estilos.css"
+}
