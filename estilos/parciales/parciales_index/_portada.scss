@@ -3,4 +3,22 @@
 .portada {
     height: $altura_portada;
     background-color: $gris_oscuro;
+    padding-top: $pad_header;
+    font-family: $condensada;
+
+    &__h1 {
+        font-size: $tamano_portada_titulo;
+        color: $blanco;
+        font-weight: $grosor_portada_titulo;
+        
+        &__span {
+            color: $naranja;
+        }
+    }
+    &__p {
+        color: $blanco;
+        font-size: $tamano_portada_subtitulo;
+        font-weight: $grosor_portada_subtitulo;
+        margin-bottom: 0;
+    }
 }

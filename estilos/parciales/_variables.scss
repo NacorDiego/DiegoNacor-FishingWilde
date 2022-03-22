@@ -14,13 +14,31 @@ $clasica: 'Roboto', sans-serif;
 
 //Tamaño de fuentes
 
-$nav_size: 1.3rem;
+// En web:
+
+$tamano_nav: 1.3rem;
+$tamano_portada_titulo: 6.1rem;
+$tamano_portada_subtitulo: 1.1rem;
+
+
 
 //Grosor de fuentes
 
-$nav_weight: 300;
+// En web:
+
+$grosor_nav: 300;
+$grosor_portada_titulo: 700;
+$grosor_portada_subtitulo:300;
 
 //Alturas
 
+// En web:
+
 $altura_header: 12vh;
 $altura_portada: 100vh;
+
+//Paddings
+
+// En web:
+
+$pad_header: 12vh;

@@ -1,3 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
 .logo {
   width: 160px;
 }
@@ -9,6 +16,7 @@ header {
 
 header .navegacion {
   height: 100%;
+  width: 100%;
   margin-left: 30px;
   gap: 20px;
 }
@@ -28,5 +36,24 @@ header .navegacion__link:hover {
 .portada {
   height: 100vh;
   background-color: #383838;
+  padding-top: 12vh;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.portada__h1 {
+  font-size: 6.1rem;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.portada__h1__span {
+  color: #f7941e;
+}
+
+.portada__p {
+  color: #ffffff;
+  font-size: 1.1rem;
+  font-weight: 300;
+  margin-bottom: 0;
 }
 /*# sourceMappingURL=estilos.css.map */

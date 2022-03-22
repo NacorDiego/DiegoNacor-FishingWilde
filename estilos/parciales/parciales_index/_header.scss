@@ -10,13 +10,14 @@ header {
 
     .navegacion {
         height: 100%;
+        width: 100%;
         margin-left: 30px;
         gap: 20px;
     
         &__link {
             font-family:$condensada;
-            font-size: $nav_size;
-            font-weight: $nav_weight;
+            font-size: $tamano_nav;
+            font-weight: $grosor_nav;
             color: $blanco;
             text-decoration: none;
         }
