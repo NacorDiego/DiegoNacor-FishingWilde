@@ -56,4 +56,26 @@ header .navegacion__link:hover {
   font-weight: 300;
   margin-bottom: 0;
 }
+
+.portada__boton {
+  border: 2px solid #f7941e;
+  border-radius: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.8rem;
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.portada__boton:hover {
+  color: #ffffff;
+  background-color: #f7941e;
+}
+
+.portada__redes {
+  color: #505050;
+}
+
+.portada__redes:hover {
+  color: #ffffff;
+}
 /*# sourceMappingURL=estilos.css.map */

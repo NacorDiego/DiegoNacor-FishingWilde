@@ -21,4 +21,22 @@
         font-weight: $grosor_portada_subtitulo;
         margin-bottom: 0;
     }
+    &__boton {
+        border: 2px solid $naranja;
+        border-radius: 0;
+        font-family: $clasica;
+        font-size: $tamano_portada_boton;
+        color: $blanco;
+        font-weight: 500;
+    }
+    &__boton:hover {
+        color: $blanco;
+        background-color: $naranja;
+    }
+    &__redes {
+        color: $gris_claro;
+    }
+    &__redes:hover {
+        color: $blanco;
+    }
 }
