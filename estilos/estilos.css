@@ -78,4 +78,9 @@ header .navegacion__link:hover {
 .portada__redes:hover {
   color: #ffffff;
 }
+
+.servicios {
+  min-height: 120vh;
+  background-color: #383838;
+}
 /*# sourceMappingURL=estilos.css.map */
