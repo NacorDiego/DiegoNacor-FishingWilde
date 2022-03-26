@@ -25,5 +25,14 @@
         font-family: $condensada;
         font-size: $tamano_servicios_h4;
         font-weight: $grosor_servicios_h4;
+        color: $blanco;
+
+        &__span {
+            font-size: 2rem;
+            font-weight: 300;
+        }
+        &__span2 {
+            color: $naranja;
+        }
     }
 }

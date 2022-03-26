@@ -106,5 +106,15 @@ header .navegacion__link:hover {
   font-family: "Roboto Condensed", sans-serif;
   font-size: 4rem;
   font-weight: 700;
+  color: #ffffff;
+}
+
+.servicios__h4__span {
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+.servicios__h4__span2 {
+  color: #f7941e;
 }
 /*# sourceMappingURL=estilos.css.map */
