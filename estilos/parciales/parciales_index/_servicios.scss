@@ -3,4 +3,27 @@
 .servicios {
     min-height: 120vh;
     background-color: $gris_oscuro;
+
+    &__h2 {
+        font-family: $clasica;
+        font-size: $tamano_servicios_h2;
+        font-weight: $grosor_servicios_h2;
+        color: $blanco;
+    }
+    &__h3 {
+        font-family: $condensada;
+        font-size: $tamano_servicios_h3;
+        font-weight: $grosor_servicios_h3;
+        color: $blanco;
+
+        &__span {
+            color: $naranja;
+        }
+    }
+
+    &__h4 {
+        font-family: $condensada;
+        font-size: $tamano_servicios_h4;
+        font-weight: $grosor_servicios_h4;
+    }
 }
