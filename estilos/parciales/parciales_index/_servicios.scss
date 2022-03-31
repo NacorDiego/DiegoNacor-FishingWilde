@@ -28,11 +28,9 @@
         color: $blanco;
 
         &__span {
+            color: $gris_claro;
             font-size: 2rem;
             font-weight: 300;
-        }
-        &__span2 {
-            color: $naranja;
         }
     }
 }

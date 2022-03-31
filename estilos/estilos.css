@@ -72,7 +72,7 @@ header .navegacion__link:hover {
 }
 
 .portada__redes {
-  color: #505050;
+  color: #757575;
 }
 
 .portada__redes:hover {
@@ -104,17 +104,14 @@ header .navegacion__link:hover {
 
 .servicios__h4 {
   font-family: "Roboto Condensed", sans-serif;
-  font-size: 4rem;
-  font-weight: 700;
+  font-size: 3rem;
+  font-weight: 500;
   color: #ffffff;
 }
 
 .servicios__h4__span {
+  color: #757575;
   font-size: 2rem;
   font-weight: 300;
-}
-
-.servicios__h4__span2 {
-  color: #f7941e;
 }
 /*# sourceMappingURL=estilos.css.map */
